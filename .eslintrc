@@ -17,6 +17,7 @@
   },
   "rules": {
     "prettier/prettier": ["warn", { "singleQuote": true }],
+    "react/jsx-uses-react": 1,
     "no-console": "warn"
   }
 }
